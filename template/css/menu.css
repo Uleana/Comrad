@@ -1,0 +1,30 @@
+root { 
+    display: block;
+}
+
+.menu_item
+{
+    
+}
+
+.menu_item:hover
+{
+    color: blue;
+}
+
+.menu_subitems
+{
+    display: none;
+    margin-left: 10px;
+}
+
+.menu_subitem
+{
+    
+}
+.menu_subitem:hover
+{
+    color: blue;
+}
+
+
